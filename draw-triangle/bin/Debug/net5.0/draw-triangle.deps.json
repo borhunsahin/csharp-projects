@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "draw-triangle/1.0.0": {
+        "runtime": {
+          "draw-triangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "draw-triangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

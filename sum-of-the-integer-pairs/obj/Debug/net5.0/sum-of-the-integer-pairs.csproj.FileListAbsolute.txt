@@ -1,0 +1,16 @@
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\bin\Debug\net5.0\sum-of-the-integer-pairs.exe
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\bin\Debug\net5.0\sum-of-the-integer-pairs.deps.json
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\bin\Debug\net5.0\sum-of-the-integer-pairs.runtimeconfig.json
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\bin\Debug\net5.0\sum-of-the-integer-pairs.runtimeconfig.dev.json
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\bin\Debug\net5.0\sum-of-the-integer-pairs.dll
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\bin\Debug\net5.0\ref\sum-of-the-integer-pairs.dll
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\bin\Debug\net5.0\sum-of-the-integer-pairs.pdb
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\obj\Debug\net5.0\sum-of-the-integer-pairs.csproj.AssemblyReference.cache
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\obj\Debug\net5.0\sum-of-the-integer-pairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\obj\Debug\net5.0\sum-of-the-integer-pairs.AssemblyInfoInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\obj\Debug\net5.0\sum-of-the-integer-pairs.AssemblyInfo.cs
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\obj\Debug\net5.0\sum-of-the-integer-pairs.csproj.CoreCompileInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\obj\Debug\net5.0\sum-of-the-integer-pairs.dll
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\obj\Debug\net5.0\ref\sum-of-the-integer-pairs.dll
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\obj\Debug\net5.0\sum-of-the-integer-pairs.pdb
+C:\Users\Orhun\Documents\csharp-projects\sum-of-the-integer-pairs\obj\Debug\net5.0\sum-of-the-integer-pairs.genruntimeconfig.cache

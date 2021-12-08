@@ -1,0 +1,16 @@
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\bin\Debug\net5.0\average-calculate.exe
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\bin\Debug\net5.0\average-calculate.deps.json
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\bin\Debug\net5.0\average-calculate.runtimeconfig.json
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\bin\Debug\net5.0\average-calculate.runtimeconfig.dev.json
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\bin\Debug\net5.0\average-calculate.dll
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\bin\Debug\net5.0\ref\average-calculate.dll
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\bin\Debug\net5.0\average-calculate.pdb
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\obj\Debug\net5.0\average-calculate.csproj.AssemblyReference.cache
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\obj\Debug\net5.0\average-calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\obj\Debug\net5.0\average-calculate.AssemblyInfoInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\obj\Debug\net5.0\average-calculate.AssemblyInfo.cs
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\obj\Debug\net5.0\average-calculate.csproj.CoreCompileInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\obj\Debug\net5.0\average-calculate.dll
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\obj\Debug\net5.0\ref\average-calculate.dll
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\obj\Debug\net5.0\average-calculate.pdb
+C:\Users\Orhun\Documents\csharp-projects\average-calculate\obj\Debug\net5.0\average-calculate.genruntimeconfig.cache

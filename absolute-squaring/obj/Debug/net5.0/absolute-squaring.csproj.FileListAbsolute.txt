@@ -1,0 +1,16 @@
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\bin\Debug\net5.0\absolute-squaring.exe
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\bin\Debug\net5.0\absolute-squaring.deps.json
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\bin\Debug\net5.0\absolute-squaring.runtimeconfig.json
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\bin\Debug\net5.0\absolute-squaring.runtimeconfig.dev.json
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\bin\Debug\net5.0\absolute-squaring.dll
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\bin\Debug\net5.0\ref\absolute-squaring.dll
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\bin\Debug\net5.0\absolute-squaring.pdb
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\obj\Debug\net5.0\absolute-squaring.csproj.AssemblyReference.cache
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\obj\Debug\net5.0\absolute-squaring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\obj\Debug\net5.0\absolute-squaring.AssemblyInfoInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\obj\Debug\net5.0\absolute-squaring.AssemblyInfo.cs
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\obj\Debug\net5.0\absolute-squaring.csproj.CoreCompileInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\obj\Debug\net5.0\absolute-squaring.dll
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\obj\Debug\net5.0\ref\absolute-squaring.dll
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\obj\Debug\net5.0\absolute-squaring.pdb
+C:\Users\Orhun\Documents\csharp-projects\absolute-squaring\obj\Debug\net5.0\absolute-squaring.genruntimeconfig.cache

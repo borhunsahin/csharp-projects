@@ -1,0 +1,16 @@
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\bin\Debug\net5.0\draw-circle.exe
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\bin\Debug\net5.0\draw-circle.deps.json
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\bin\Debug\net5.0\draw-circle.runtimeconfig.json
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\bin\Debug\net5.0\draw-circle.runtimeconfig.dev.json
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\bin\Debug\net5.0\draw-circle.dll
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\bin\Debug\net5.0\ref\draw-circle.dll
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\bin\Debug\net5.0\draw-circle.pdb
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\obj\Debug\net5.0\draw-circle.csproj.AssemblyReference.cache
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\obj\Debug\net5.0\draw-circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\obj\Debug\net5.0\draw-circle.AssemblyInfoInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\obj\Debug\net5.0\draw-circle.AssemblyInfo.cs
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\obj\Debug\net5.0\draw-circle.csproj.CoreCompileInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\obj\Debug\net5.0\draw-circle.dll
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\obj\Debug\net5.0\ref\draw-circle.dll
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\obj\Debug\net5.0\draw-circle.pdb
+C:\Users\Orhun\Documents\csharp-projects\draw-circle\obj\Debug\net5.0\draw-circle.genruntimeconfig.cache

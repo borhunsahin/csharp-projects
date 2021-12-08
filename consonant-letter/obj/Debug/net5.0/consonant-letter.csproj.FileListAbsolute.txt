@@ -1,0 +1,16 @@
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\bin\Debug\net5.0\consonant-letter.exe
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\bin\Debug\net5.0\consonant-letter.deps.json
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\bin\Debug\net5.0\consonant-letter.runtimeconfig.json
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\bin\Debug\net5.0\consonant-letter.runtimeconfig.dev.json
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\bin\Debug\net5.0\consonant-letter.dll
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\bin\Debug\net5.0\ref\consonant-letter.dll
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\bin\Debug\net5.0\consonant-letter.pdb
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\obj\Debug\net5.0\consonant-letter.csproj.AssemblyReference.cache
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\obj\Debug\net5.0\consonant-letter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\obj\Debug\net5.0\consonant-letter.AssemblyInfoInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\obj\Debug\net5.0\consonant-letter.AssemblyInfo.cs
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\obj\Debug\net5.0\consonant-letter.csproj.CoreCompileInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\obj\Debug\net5.0\consonant-letter.dll
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\obj\Debug\net5.0\ref\consonant-letter.dll
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\obj\Debug\net5.0\consonant-letter.pdb
+C:\Users\Orhun\Documents\csharp-projects\consonant-letter\obj\Debug\net5.0\consonant-letter.genruntimeconfig.cache

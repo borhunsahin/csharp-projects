@@ -1,0 +1,16 @@
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\bin\Debug\net5.0\area-calculate.exe
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\bin\Debug\net5.0\area-calculate.deps.json
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\bin\Debug\net5.0\area-calculate.runtimeconfig.json
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\bin\Debug\net5.0\area-calculate.runtimeconfig.dev.json
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\bin\Debug\net5.0\area-calculate.dll
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\bin\Debug\net5.0\ref\area-calculate.dll
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\bin\Debug\net5.0\area-calculate.pdb
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\obj\Debug\net5.0\area-calculate.csproj.AssemblyReference.cache
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\obj\Debug\net5.0\area-calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\obj\Debug\net5.0\area-calculate.AssemblyInfoInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\obj\Debug\net5.0\area-calculate.AssemblyInfo.cs
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\obj\Debug\net5.0\area-calculate.csproj.CoreCompileInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\obj\Debug\net5.0\area-calculate.dll
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\obj\Debug\net5.0\ref\area-calculate.dll
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\obj\Debug\net5.0\area-calculate.pdb
+C:\Users\Orhun\Documents\csharp-projects\area-calculate\obj\Debug\net5.0\area-calculate.genruntimeconfig.cache

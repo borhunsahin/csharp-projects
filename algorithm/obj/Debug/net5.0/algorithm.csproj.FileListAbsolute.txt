@@ -1,0 +1,16 @@
+C:\Users\Orhun\Documents\csharp-projects\algorithm\bin\Debug\net5.0\algorithm.exe
+C:\Users\Orhun\Documents\csharp-projects\algorithm\bin\Debug\net5.0\algorithm.deps.json
+C:\Users\Orhun\Documents\csharp-projects\algorithm\bin\Debug\net5.0\algorithm.runtimeconfig.json
+C:\Users\Orhun\Documents\csharp-projects\algorithm\bin\Debug\net5.0\algorithm.runtimeconfig.dev.json
+C:\Users\Orhun\Documents\csharp-projects\algorithm\bin\Debug\net5.0\algorithm.dll
+C:\Users\Orhun\Documents\csharp-projects\algorithm\bin\Debug\net5.0\ref\algorithm.dll
+C:\Users\Orhun\Documents\csharp-projects\algorithm\bin\Debug\net5.0\algorithm.pdb
+C:\Users\Orhun\Documents\csharp-projects\algorithm\obj\Debug\net5.0\algorithm.csproj.AssemblyReference.cache
+C:\Users\Orhun\Documents\csharp-projects\algorithm\obj\Debug\net5.0\algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orhun\Documents\csharp-projects\algorithm\obj\Debug\net5.0\algorithm.AssemblyInfoInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\algorithm\obj\Debug\net5.0\algorithm.AssemblyInfo.cs
+C:\Users\Orhun\Documents\csharp-projects\algorithm\obj\Debug\net5.0\algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\algorithm\obj\Debug\net5.0\algorithm.dll
+C:\Users\Orhun\Documents\csharp-projects\algorithm\obj\Debug\net5.0\ref\algorithm.dll
+C:\Users\Orhun\Documents\csharp-projects\algorithm\obj\Debug\net5.0\algorithm.pdb
+C:\Users\Orhun\Documents\csharp-projects\algorithm\obj\Debug\net5.0\algorithm.genruntimeconfig.cache

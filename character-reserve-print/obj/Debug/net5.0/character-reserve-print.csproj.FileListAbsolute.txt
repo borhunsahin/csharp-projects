@@ -1,0 +1,16 @@
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\bin\Debug\net5.0\character-reserve-print.exe
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\bin\Debug\net5.0\character-reserve-print.deps.json
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\bin\Debug\net5.0\character-reserve-print.runtimeconfig.json
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\bin\Debug\net5.0\character-reserve-print.runtimeconfig.dev.json
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\bin\Debug\net5.0\character-reserve-print.dll
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\bin\Debug\net5.0\ref\character-reserve-print.dll
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\bin\Debug\net5.0\character-reserve-print.pdb
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\obj\Debug\net5.0\character-reserve-print.csproj.AssemblyReference.cache
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\obj\Debug\net5.0\character-reserve-print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\obj\Debug\net5.0\character-reserve-print.AssemblyInfoInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\obj\Debug\net5.0\character-reserve-print.AssemblyInfo.cs
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\obj\Debug\net5.0\character-reserve-print.csproj.CoreCompileInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\obj\Debug\net5.0\character-reserve-print.dll
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\obj\Debug\net5.0\ref\character-reserve-print.dll
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\obj\Debug\net5.0\character-reserve-print.pdb
+C:\Users\Orhun\Documents\csharp-projects\character-reserve-print\obj\Debug\net5.0\character-reserve-print.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "character-reserve-print/1.0.0": {
+        "runtime": {
+          "character-reserve-print.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "character-reserve-print/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\bin\Debug\net5.0\draw-triangle.exe
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\bin\Debug\net5.0\draw-triangle.deps.json
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\bin\Debug\net5.0\draw-triangle.runtimeconfig.json
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\bin\Debug\net5.0\draw-triangle.runtimeconfig.dev.json
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\bin\Debug\net5.0\draw-triangle.dll
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\bin\Debug\net5.0\ref\draw-triangle.dll
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\bin\Debug\net5.0\draw-triangle.pdb
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\obj\Debug\net5.0\draw-triangle.csproj.AssemblyReference.cache
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\obj\Debug\net5.0\draw-triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\obj\Debug\net5.0\draw-triangle.AssemblyInfoInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\obj\Debug\net5.0\draw-triangle.AssemblyInfo.cs
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\obj\Debug\net5.0\draw-triangle.csproj.CoreCompileInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\obj\Debug\net5.0\draw-triangle.dll
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\obj\Debug\net5.0\ref\draw-triangle.dll
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\obj\Debug\net5.0\draw-triangle.pdb
+C:\Users\Orhun\Documents\csharp-projects\draw-triangle\obj\Debug\net5.0\draw-triangle.genruntimeconfig.cache

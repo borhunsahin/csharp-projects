@@ -1,0 +1,16 @@
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\bin\Debug\net5.0\character-replacement.exe
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\bin\Debug\net5.0\character-replacement.deps.json
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\bin\Debug\net5.0\character-replacement.runtimeconfig.json
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\bin\Debug\net5.0\character-replacement.runtimeconfig.dev.json
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\bin\Debug\net5.0\character-replacement.dll
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\bin\Debug\net5.0\ref\character-replacement.dll
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\bin\Debug\net5.0\character-replacement.pdb
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\obj\Debug\net5.0\character-replacement.csproj.AssemblyReference.cache
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\obj\Debug\net5.0\character-replacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\obj\Debug\net5.0\character-replacement.AssemblyInfoInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\obj\Debug\net5.0\character-replacement.AssemblyInfo.cs
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\obj\Debug\net5.0\character-replacement.csproj.CoreCompileInputs.cache
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\obj\Debug\net5.0\character-replacement.dll
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\obj\Debug\net5.0\ref\character-replacement.dll
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\obj\Debug\net5.0\character-replacement.pdb
+C:\Users\Orhun\Documents\csharp-projects\character-replacement\obj\Debug\net5.0\character-replacement.genruntimeconfig.cache
